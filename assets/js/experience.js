@@ -8,8 +8,8 @@ const exp = [
     title: "Working Student Analytics",
     cardImage: "assets/images/experience-page/axpo-logo.png",
     place: "Axpo AG, Hydro 4.0",
-    time: "(Jun, 2021 - Apr 2022)",
-    desp: "<li>Used Azure Functions to provide low-cost, serverless software solutions.</li> <li>Developed and monitored automated build and continuous software integration processes with Azure DevOps.</li>",
+    time: "(Jun, 21 - Apr 22)",
+    desp: "<li>Used Azure Functions to provide low-cost, serverless software solutions.</li><li>Developed and refactored solutions to export and import timeseries data from/to a web app.</li><li>Developed and monitored automated build and continuous software integration processes with Azure DevOps.</li>",
   },
   {
     title: "Teaching Assistant",
@@ -20,7 +20,7 @@ const exp = [
   },
   {
     title: "Working Student Software Engineering",
-    cardImage: "assets/images/experience-page/ategra-logo.jpg",
+    cardImage: "assets/images/experience-page/ategra-logo.png",
     place: "ATEGRA AG",
     time: "(Oct, 19 - Oct, 20)",
     desp: "<li>Wrote automation software with python and bash</li><li>Implemented new web features for custom software using javascript, python, and bash.</li><li>Gave software support to customers in need.</li>",
