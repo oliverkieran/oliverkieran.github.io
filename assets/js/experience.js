@@ -5,25 +5,25 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Development Intern",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
-    place: "Flipkart",
-    time: "(May, 2020 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    title: "Working Student Analytics",
+    cardImage: "assets/images/experience-page/axpo-logo.png",
+    place: "Axpo AG, Hydro 4.0",
+    time: "(Jun, 2021 - Apr 2022)",
+    desp: "<li>Used Azure Functions to provide low-cost, serverless software solutions.</li> <li>Developed and monitored automated build and continuous software integration processes with Azure DevOps.</li>",
   },
   {
-    title: "Student Developer",
-    cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    title: "Teaching Assistant",
+    cardImage: "assets/images/experience-page/ETH-Logo.png",
+    place: "Integrated Systems Laboratory, ETH Zürich",
+    time: "(Oct, 18 - Dec, 20)",
+    desp: "<li>Guided 50 students in use of Altera DE1 boards with FPGA software Quartus 2</li><li>Instructed students in TA sessions with use of Oscilloscope and in digital logic design practices.</li>",
   },
   {
-    title: "Research Intern",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    title: "Working Student Software Engineering",
+    cardImage: "assets/images/experience-page/ategra-logo.jpg",
+    place: "ATEGRA AG",
+    time: "(Oct, 19 - Oct, 20)",
+    desp: "<li>Wrote automation software with python and bash</li><li>Implemented new web features for custom software using javascript, python, and bash.</li><li>Gave software support to customers in need.</li>",
   },
 ];
 
